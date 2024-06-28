@@ -26,7 +26,7 @@ public class BookNetworkApiApplication {
             if (roleRepository.findByName("USER").isEmpty()) {
                 roleRepository.save(
                         Role.builder()
-                                .name("USER")
+//                                .name("USER")
                                 .build());
             }
         };
