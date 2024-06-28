@@ -93,7 +93,7 @@ To get started with the Book Social Network project, follow the setup instructio
 - [Frontend Setup Instructions](book-network-ui/README.md)
 
 ## Contributors
-
+- This project part of the educational video of Ali Bouali. You can find the course here: https://www.youtube.com/watch?v=WuPa_XoWlJU&t=35803s&ab_channel=BoualiAli
 - [Ali Bouali](https://github.com/ali-bouali)
 
 ## Acknowledgments
