@@ -21,7 +21,7 @@ To set up the backend of the Book Social Network project, follow these steps:
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/ali-bouali/book-social-network.git
+   git clone https://github.com/iitodorov/book-social-network
 ```
 
 2. Run the docker-compose file
